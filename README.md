@@ -114,3 +114,5 @@ https://gist.github.com/arno01/ebf570af208e28c1a0cf78da4f63bc9c
 - 启用网络变化监控
 - 挂载sdcard
 
+#### v2rayng
+- geo dat数据文件避免更新，或使用轻量版的geo 数据(https://github.com/Hackl0us/GeoIP2-CN)
