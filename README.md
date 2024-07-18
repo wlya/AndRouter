@@ -110,7 +110,8 @@ https://gist.github.com/arno01/ebf570af208e28c1a0cf78da4f63bc9c
 - 启动vpn（v2rayng）
 
 #### linux deploy：
-- 开机自启动
+- 设置开机自启动
+- 设置linux启动脚本，在linux 内部创建/etc/rc.local（linux内部服务自启动）
 - 启用网络变化监控
 - 挂载sdcard
 
